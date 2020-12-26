@@ -6,6 +6,6 @@ Support Vector Machine <br>
 Logistic Regression <br>
 Jaccard index <br>
 F1-score <br>
-LogLoass <br>
+LogLoss <br>
 classification algorithm <br>
 Machine Learning algorithms <br>
